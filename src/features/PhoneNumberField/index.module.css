@@ -1,7 +1,0 @@
-.country_select  :global(span) {
-    color: var(--text-color);
-}
-.country_select svg {
-    border: none;
-    color: var(--text-color);
-}
